@@ -26,8 +26,8 @@ I'm Cathie, a CS student at UWaterloo.
 - 🌱 I’m continuously learning and exploring new technologies to expand my knowledge, starting with relational databases.
 - 💬 Ask me about anything related to web development or data analysis!
 ### How to reach me 📫
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/cathie-yan)
-![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=cathieyan@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/cathie-yan)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cathieyan@hotmail.com)
 
 
 <!--
