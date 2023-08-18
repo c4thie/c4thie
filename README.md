@@ -28,7 +28,7 @@ I'm Cathie, a CS student at UWaterloo.
 
 ### How to reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cathie-yan)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://cathieyan@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathieyan@hotmail.com)
 
 
 <!--
