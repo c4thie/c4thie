@@ -1,4 +1,4 @@
-## hi i'm cathie!
+## hello i'm cathie!
 
 - 🔭 currently cs @ uwaterloo
 - 🌱 i’m continuously learning and exploring; talk to me about tech and 60s movies
