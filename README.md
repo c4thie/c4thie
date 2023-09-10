@@ -1,8 +1,8 @@
 ## hello i'm cathie!
 
-🔭 currently cs @ uwaterloo
-🌱 i’m continuously learning and exploring; talk to me about tech and 60s movies
-⚡ i'm at level 667 on puzzle and dragons
+- 🔭 currently cs @ uwaterloo
+- 🌱 i’m continuously learning and exploring; talk to me about tech and 60s movies
+- ⚡ i'm at level 667 on puzzle and dragons
 
 <!--
 **c4thie/c4thie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
