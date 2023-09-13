@@ -1,8 +1,10 @@
-## hello i'm cathie!
+## Hi, I'm Cathie!
 
-- 🔭 currently cs @ uwaterloo
-- 🌱 i’m continuously learning and exploring; talk to me about tech and 60s movies
-- ⚡ i'm at level 667 on puzzle and dragons
+I'm currently studying Computer Science @ UWaterloo, expecting to graduate in 2026.
+
+- 🌱 I’m continuously learning and exploring; talk to me about tech, graphics, and cats
+- ⚡ I'm at level 667 on puzzle and dragons!
+- 💬 Find me at [LinkedIn](https://linkedin.com/in/cathie-yan) | [Email](mailto:cyan@uwaterloo.ca)
 
 <!--
 **c4thie/c4thie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
