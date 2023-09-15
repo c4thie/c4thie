@@ -6,6 +6,8 @@ I'm currently studying Computer Science @ UWaterloo, expecting to graduate in 20
 - ⚡ I'm on level 667 in puzzle and dragons!
 - 💬 Find me on [LinkedIn](https://linkedin.com/in/cathie-yan) | [Email](mailto:cyan@uwaterloo.ca)
 
+<!--![c4thie's GitHub stats](https://github-readme-stats.vercel.app/api?username=c4thie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![c4thie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c4thie&hide=TeX,html,jupyter%20notebook,css&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)--!>
 <!--
 **c4thie/c4thie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
