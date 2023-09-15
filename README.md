@@ -1,8 +1,8 @@
-## Hi, I'm Cathie!
+## Hello, I'm Cathie!
 
 I'm currently studying Computer Science @ UWaterloo, expecting to graduate in 2026.
 
-- 🌱 I’m continuously learning and exploring; talk to me about tech, graphics, and cats
+- 🌱 I’m continuously learning and exploring: talk to me about tech, graphics, and CATS
 - ⚡ I'm on level 667 in puzzle and dragons!
 - 💬 Find me at [LinkedIn](https://linkedin.com/in/cathie-yan) | [Email](mailto:cyan@uwaterloo.ca)
 
